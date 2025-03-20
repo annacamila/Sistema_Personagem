@@ -19,6 +19,7 @@ public class Guerreiro extends Personagem {
 
     public void setEspada(String espada) {
         this.espada = espada;
+        System.out.println(".");
     }
 
     @Override
